@@ -1,0 +1,13 @@
+/* ----------------------------------Banner Insert Form-------------------------------- */
+.top_bar1 {
+	background-color: #735999;
+	padding: 15px 0px 15px 0px; 
+}
+.top_bar_text1{
+	text-align: center;
+}
+.top_bar_text1 p{
+	color: #ffffff;
+	margin-bottom: 0px;
+	font-size: 15px;
+}
